@@ -1,0 +1,4 @@
+This is sample text.
+Linux is powerful.
+Bash scripting is useful.
+Coursera assignment.
