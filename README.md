@@ -1,10 +1,13 @@
 # Assignment 1 - Bash Scripting Basics
 
-Repository contains:
+This repository contains the files required for Assignment 1.
+
+## Files
 
 - assignment1/findtext.sh
 - assignment1/simple.txt
 
-Run:
+## Example
 
+```bash
 ./findtext.sh Linux simple.txt
