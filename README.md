@@ -1,13 +1,6 @@
-# Assignment 1 - Bash Scripting Basics
+Assignment 1 - Bash Scripting Basics
 
-This repository contains the files required for Assignment 1.
-
-## Files
-
-- assignment1/findtext.sh
-- assignment1/simple.txt
-
-## Example
-
-```bash
-./findtext.sh Linux simple.txt
+Files:
+- conf/username.txt
+- finder-app/finder.sh
+- finder-app/writer.sh
